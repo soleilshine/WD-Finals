@@ -74,6 +74,18 @@ h2 {
     border-radius: 0 50px 50px 0;
 }
 
+.footer .disclamer {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    margin: auto;
+    padding: 20px 0;
+    font-size: 13px;
+    color: #fefefe;
+    border-top: 1px solid gray;
+    background-color: none;
+  }
+
 
 
 
