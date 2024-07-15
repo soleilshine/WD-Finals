@@ -4,16 +4,16 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/zyx-0314/">
+  <a href="https://github.com/soleilshane/">
   <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="./assets/img/nyebe_white.png" alt="Nyebe" width="130" height="100">
+    <img src="./assets/img/cherry-logo.png" alt="Nyebe" width="130" height="100">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">Title</h3>
+  <h3 align="center">Finals</h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  Short Description. (Optional)
+  Personal Website showcasing my skills and past projects.
 </div>
 
 <br />
@@ -57,20 +57,14 @@
 
 <!-- TODO: To be changed -->
 <!-- The following are just sample -->
-Description of the project in details.
 
-Guiding Question:
-- What is the project
-- Whats the purpose
-- What are key components
-- What technology used and how it is used
+The project is a Personal Website: A showcase of Design and Functionality. 
+The purpose of the project is to build a peronal website that includes 5 pages with different layouts.
 
 ### Key Components
 <!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
-- MultiPage Website/Single Page Website
-- Parallax transition
-- Transactional
+- MultiPage Website
 
 ### Technology
 <!-- TODO: List of Technology Used -->
@@ -117,4 +111,14 @@ WD-ProjectName
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+| Google Fonts | makes it easy to bring personality and performance to websites and products. | https://fonts.google.com/ |
+| Code Pen | used it as reference for arrowed link animation on hover  | https://codepen.io/nguyenanhtuan/pen/gOQyGQb |
+| Font Awesome | used it for icons  | https://fontawesome.com/ |
+| CDN | used the link for index  | https://cdnjs.com/libraries/font-awesome |
+| Color Hunt | used it to change color for my website  | https://colorhunt.co/ |
+| Scroll Reveal | used it as reference on overview  | https://scrollrevealjs.org/ |
+| Shields.io | used it to create a badge  | https://scrollrevealjs.org/ |
+| MDN | used it for media to be a responsive website (pages home-about)  | https://scrollrevealjs.org/ |
+
+
+
