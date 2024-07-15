@@ -61,6 +61,34 @@
 The project is a Personal Website: A showcase of Design and Functionality. 
 The purpose of the project is to build a peronal website that includes 5 pages with different layouts.
 
+Home Page:
+
+Introduction: Provides a brief description of my personal information.
+
+About
+
+Resume Page: A section where I showcases my professional experiences, skills, and education.
+
+Projects Page: A section where I highlight and provide evidence to my past projects:
+
+1. Headers and Footers - both static and animated versions of headers and footers with distinct layouts.
+
+Repo Link: https://github.com/soleilshine/WD-Seatwork-3-TC04
+
+2. Hero and Cards Display - both static and animatedd version of hero and cards display with distinct layouts.
+
+Repo Link: https://github.com/soleilshine/WD-Hands-On-2-TC04
+
+3. Feature Display - A website that focuses on features of a product with different layouts.
+
+Repo Link: https://github.com/soleilshine/WD-Seatwork-4-TC04
+
+4. Personal Website - Showcasing distinct layouts for various features.
+
+Repo Link: https://github.com/soleilshine/WD-Finals
+
+Contact Page: A brief information on how to get in touch with me.
+
 ### Key Components
 <!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
